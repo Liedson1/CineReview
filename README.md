@@ -17,7 +17,6 @@ A aplicação consome dados da **API do The Movie Database (TMDB)** e oferece um
 * [Instalação e Configuração](#-instalação-e-configuração)
 * [Rotas e Endpoints](#-rotas-e-endpoints)
 * [Modelagem de Dados (Prisma)](#-modelagem-de-dados-prisma)
-* [Capturas de Tela (UI)](#-capturas-de-tela-ui)
 * [Melhorias Futuras](#-melhorias-futuras)
 * [Autor](#-autor)
 
